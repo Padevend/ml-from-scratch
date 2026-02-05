@@ -70,4 +70,4 @@ Voir `main.py` pour un exemple d'implémentation complet.
 
 ## Plus d'information
 
-[Machine learning: model de regression lineare](https://www.mbah-ndam.dev/ml/ml-linear-regression)
+[Machine learning: model de regression lineare](https://www.mbah-ndam.dev/blog/ml-linear-regression)
