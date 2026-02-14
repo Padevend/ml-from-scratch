@@ -33,3 +33,7 @@ if __name__ == "__main__":
     # évaluation du modèle
     accuracy = model.accuracy(X_test, Y_test)
     print(f"Accuracy : {accuracy * 100:.2f}%")
+
+    # nouvelle predisction
+    # pred = model.predict(np.array(X_test))
+    # print(pred)
