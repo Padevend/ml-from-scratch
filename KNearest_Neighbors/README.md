@@ -48,5 +48,5 @@ Voir `example_classifier.py` pour un exemple d'implémentation de classification
 
 ## Plus d'information
 
-[Machine learning: k-Nearest Neighbors](https://www.mbah-ndam.dev/ml/ml-k-nearest-neighbors)
+[Machine learning: k-Nearest Neighbors](https://www.mbah-ndam.dev/blog/ml-k-nearest-neighbors)
 
